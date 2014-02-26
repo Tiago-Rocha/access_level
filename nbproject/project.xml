@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>access_level</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>BIC</word>
+            <word>ContentLines</word>
+            <word>elseif</word>
+            <word>elseifisHumanResource</word>
+            <word>endif</word>
+            <word>Telefon</word>
+            <word>TelefoneFAX</word>
+            <word>ZipCode</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
